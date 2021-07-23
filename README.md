@@ -29,14 +29,6 @@ git clone https://github.com/eroiyo/Labyrinth-Generator
 cd ./https://github.com/eroiyo/Labyrinth-Generator
 ```
 
-### Install
-
-```cmd
-npm install
-```
-
-
-
 ## Author
 
 👤 **Arturo Ortega**
