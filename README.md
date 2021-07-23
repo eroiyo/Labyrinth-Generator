@@ -33,7 +33,7 @@ cd ./https://github.com/eroiyo/Labyrinth-Generator
 
 👤 **Arturo Ortega**
 
-- GitHub: [@eroiyo](https://eroiyo.github.io/My-Portafolio/)
+- GitHub: [@eroiyo](https://github.com/eroiyo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-arturo-ortega-guanipa-39a1a5204/)
 
 =======
